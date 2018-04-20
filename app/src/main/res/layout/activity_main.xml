@@ -17,7 +17,7 @@
             android:scaleType="centerCrop" />
 
 
-        <me.ajax.screenprotectionview.ScreenProtectionView
+        <me.ajax.screenprotectionview.widget.ScreenProtectionView
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
@@ -56,7 +56,7 @@
                     android:text="通知内容" />
 
             </LinearLayout>
-        </me.ajax.screenprotectionview.ScreenProtectionView>
+        </me.ajax.screenprotectionview.widget.ScreenProtectionView>
     </RelativeLayout>
 
 </android.support.constraint.ConstraintLayout>
